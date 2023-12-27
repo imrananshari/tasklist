@@ -1,0 +1,39 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "taskname": "React class",
+        "startDate": "01/11/2023",
+        "endDate": "01/12/2023",
+        "summary": "start react class"
+      },
+      {
+        "taskname": "Javascript class",
+        "startDate": "2023-12-18",
+        "endDate": "2023-12-31",
+        "summary": "js class",
+        "id": 2
+      },
+      {
+        "id": 3,
+        "taskname": "HTML class",
+        "startDate": "01/09/2023",
+        "endDate": "01/10/2023",
+        "summary": "start HTML class"
+      },
+      {
+        "id": 4,
+        "taskname": "CSS class",
+        "startDate": "01/09/2023",
+        "endDate": "01/10/2023",
+        "summary": "start CSS class"
+      },
+      {
+        "taskname": "new updated task",
+        "startDate": "2023-12-18",
+        "endDate": "2023-12-31",
+        "summary": "thisi is updatedtask",
+        "id": 6
+      }
+    ]
+  }
