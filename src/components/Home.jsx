@@ -35,7 +35,7 @@ const Home = () => {
                 <table border="3px">
                     <thead>
                         <tr>
-                            <th>Sl</th>
+                            <th>Sll</th>
                             <th>Task name</th>
                             <th>Start</th>
                             <th>End</th>
